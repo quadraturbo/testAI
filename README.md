@@ -200,7 +200,7 @@ Created by [@quadraturbo](https://github.com/quadraturbo)
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/python-3+-blue.svg)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green.svg)
 ![AI Powered](https://img.shields.io/badge/AI-Claude%204-purple.svg)
 ![Estado](https://img.shields.io/badge/estado-activo-success.svg)
@@ -232,7 +232,7 @@ QuadraTurbo es una herramienta profesional de línea de comandos que utiliza Cla
 
 ##  Requisitos
 
-- Python 3.8 o superior
+- Python 3 o superior
 - Clave API de Anthropic (tier gratuito disponible)
 - Conexión a Internet (para generación con IA)
 
