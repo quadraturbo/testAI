@@ -36,11 +36,11 @@ QuadraTurbo is a professional command-line tool that leverages Claude AI to auto
 
 ## 📋 Requirements
 
-- Python 3.8 or higher
+- Python 3 or higher
 - Anthropic API Key (free tier available)
 - Internet connection (for AI generation)
 
-## 🔧 Installation
+##  Installation
 
 1. **Clone the repository**
 ```bash
@@ -394,6 +394,6 @@ Creado por [@quadraturbo](https://github.com/quadraturbo)
 
 **⭐ Si este proyecto te resultó útil, considera darle una estrella en GitHub ⭐**
 
-Made with ❤️ and ☕ by quadraturbo
+Made with ❤️ by quadraturbo
 
 </div>
