@@ -21,7 +21,7 @@
 
 QuadraTurbo is a professional command-line tool that leverages Claude AI to automatically generate interactive multiple-choice quizzes from your study documents. Perfect for students, teachers, and lifelong learners who want to test their knowledge efficiently.
 
-## ✨ Features
+##  Features
 
 -  **AI-Powered Generation**: Uses Claude 4 Sonnet to create intelligent, context-aware questions
 -  **Multiple Format Support**: PDF, TXT, and Markdown files
