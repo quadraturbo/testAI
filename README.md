@@ -1,8 +1,8 @@
-# 🚀 QuadraTurbo Test Generator
+# 🚀 QuadraTurbo's Test Generator
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/python-3+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![AI Powered](https://img.shields.io/badge/AI-Claude%204-purple.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
